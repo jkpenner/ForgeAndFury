@@ -1,0 +1,12 @@
+[project]
+
+config_version=5
+
+[application]
+config/name="ForgeAndFury"
+run/main_scene="res://Scenes/Main.tscn"
+config/features=PackedStringArray("4.6", "C#")
+config/icon="res://icon.svg"
+
+[dotnet]
+project/assembly_name="ForgeAndFury"
